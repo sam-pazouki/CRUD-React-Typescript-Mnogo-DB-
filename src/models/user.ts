@@ -1,6 +1,6 @@
 export interface User {
-  id: string;
-  name: string;
+  _id: string;
+  firstname: string;
   category: string;
   status: string;
   quantity: string;
